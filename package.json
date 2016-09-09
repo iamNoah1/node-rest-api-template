@@ -1,0 +1,16 @@
+{
+  "name": "mnexus_api",
+  "version": "0.0.1",
+  "description": "",
+  "main": "api.js",
+  "scripts": {
+    "test": "gulp test",
+    "start": "node server.js"
+  },
+  "author": "mebnoah",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0"
+  }
+}
