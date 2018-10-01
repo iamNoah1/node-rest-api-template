@@ -1,16 +1,15 @@
 {
-  "name": "mnexus_api",
-  "version": "0.0.1",
-  "description": "",
-  "main": "api.js",
+  "name": "node-rest-api-template",
+  "version": "1.0.0",
+  "description": "simple template for rest api",
+  "main": "server.js",
   "scripts": {
-    "test": "gulp test",
     "start": "node server.js"
   },
   "author": "mebnoah",
   "license": "MIT",
   "dependencies": {
-    "body-parser": "^1.15.2",
-    "express": "^4.14.0"
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3"
   }
 }
